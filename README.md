@@ -36,5 +36,3 @@ Goodbye Azure Kubernetes Service! Hello Azure Container Apps! - Visug XL 2024
 ![Slide 17](_slides/16.jpg)
 
 ![Slide 18](_slides/17.jpg)
-
-![Slide 19](_slides/18.jpg)
